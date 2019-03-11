@@ -1,0 +1,9 @@
+#Build generated
+dist/
+
+### Parcel ###
+.cache/
+
+#Packages
+node_modules
+package-lock.json
